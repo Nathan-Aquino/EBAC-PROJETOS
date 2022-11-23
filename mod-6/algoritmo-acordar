@@ -1,0 +1,16 @@
+Inicio
+
+    escutar despertador
+    abrir os olhos
+    pegar o celular
+    desligar despertador
+    olhar horário
+    
+    se horário < 10:00  então
+        voltar a dormir
+    senão
+        levantar
+        ir trabalhar
+    fim se
+
+fim
